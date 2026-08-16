@@ -31,6 +31,7 @@ Asteri1004@github ~ $ neofetch
 ```
 
 > **KR** — 여러 패러다임을 넘나들며 언어 자체를 파고드는 걸 좋아합니다. 인디 게임 `Taxonomy Lab`을 만들고 있어요.
+> 
 > **EN** — I chase programming paradigms for fun and build things in the gaps between them. Crafting an indie game, `Taxonomy Lab`.
 
 ---
