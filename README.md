@@ -18,20 +18,20 @@
 ## `$ whoami`
 
 ```console
-asteri@github ~ $ neofetch
+Asteri1004@github ~ $ neofetch
                             ┌─────────────────────────────────────────┐
-      ▄▄▄▄▄▄▄▄▄▄▄           │  user        asteri                     │
+      ▄▄▄▄▄▄▄▄▄▄▄           │  user        Astéri                     │
     ▄█████████████▄         │  role        developer / game maker     │
    ███▀  ▄▄▄▄▄  ▀███        │  focus       언어 패러다임 탐험 · PL     │
-  ███   ███████   ███       │  building    Project C (indie game)     │
-  ███   ███████   ███       │  editor      Neovim · Obsidian          │
-   ███▄  ▀▀▀▀▀  ▄███        │  learning    Prolog · Racket · Uiua     │
-    ▀█████████████▀         │  motto       "읽기 좋은 코드가 오래 산다"  │
+  ███   ███████   ███       │  building    Taxonomy Lab (indie game)  │
+  ███   ███████   ███       │  editor      Obsidian                   │
+   ███▄  ▀▀▀▀▀  ▄███        │  learning    C# · Rust · Python         │
+    ▀█████████████▀         │  motto       "Good Code, Great Code!"   │
       ▀▀▀▀▀▀▀▀▀▀▀           └─────────────────────────────────────────┘
 ```
 
-> **KR** — 여러 패러다임을 넘나들며 언어 자체를 파고드는 걸 좋아합니다. 지금은 인디 게임 `Project C`를 만들고 있어요.
-> **EN** — I chase programming paradigms for fun and build things in the gaps between them. Currently crafting an indie game, `Project C`.
+> **KR** — 여러 패러다임을 넘나들며 언어 자체를 파고드는 걸 좋아합니다. 인디 게임 `Taxonomy Lab`을 만들고 있어요.
+> **EN** — I chase programming paradigms for fun and build things in the gaps between them. Crafting an indie game, `Taxonomy Lab`.
 
 ---
 
@@ -39,19 +39,13 @@ asteri@github ~ $ neofetch
 
 **Languages** · 사용 언어
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9F&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00FF9F&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FF9F&labelColor=0d1117)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=00FF9F&labelColor=0d1117)
-![Haskell](https://img.shields.io/badge/Haskell-0d1117?style=flat-square&logo=haskell&logoColor=00FF9F&labelColor=0d1117)
-![Racket](https://img.shields.io/badge/Racket-0d1117?style=flat-square&logo=racket&logoColor=00FF9F&labelColor=0d1117)
-![Prolog](https://img.shields.io/badge/Prolog-0d1117?style=flat-square&logo=prolog&logoColor=00FF9F&labelColor=0d1117)
-![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=00FF9F&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9F&labelColor=0d1117)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FF9F&labelColor=0d1117)
 
 **Tools** · 도구
 
-![Godot](https://img.shields.io/badge/Godot-0d1117?style=flat-square&logo=godotengine&logoColor=00FF9F&labelColor=0d1117)
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=flat-square&logo=neovim&logoColor=00FF9F&labelColor=0d1117)
+![Unity](https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=00FF9F&labelColor=0d1117)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0d1117?style=flat-square&logo=obsidian&logoColor=00FF9F&labelColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FF9F&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FF9F&labelColor=0d1117)
@@ -59,12 +53,12 @@ asteri@github ~ $ neofetch
 
 ---
 
-## `$ ps aux | grep asteri`
+## `$ ps aux | grep Astéri`
 
 ```console
 PID    STAT   PROJECT              DESCRIPTION
 ─────────────────────────────────────────────────────────────────────
-1001   R      Project C            인디 게임 개발 중 / indie game in progress
+1001   R      Taxonomy Lab         인디 게임 개발 중 / indie game in progress
 1002   R      lang-lab             패러다임별 실험 저장소 / paradigm playground
 1003   S      dotfiles             nvim · zsh · tmux 설정 모음
 1004   S      character-bible      Obsidian 기반 캐릭터 설계 시스템
@@ -90,7 +84,7 @@ R = running   S = sleeping
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?As=Asteri1004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00FF9F&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asteri1004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00FF9F&include_all_commits=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asteri1004&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="top langs" />
 
 <br><br>
@@ -105,22 +99,20 @@ R = running   S = sleeping
 
 ---
 
-## `$ curl -s https://asteri.dev/contact`
+## `$ curl -s /contact`
 
 ```console
 {
-  "email"    : "you@example.com",
-  "blog"     : "https://your-blog.dev",
-  "devlog"   : "https://github.com/asteri/project-c",
+  "email"    : "asteri1004@gmail.com",
+  "devlog"   : "https://github.com/Asteri1004",
   "status"   : "open to collaboration on games & PL projects"
 }
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF9F&labelColor=0d1117)](mailto:you@example.com)
-[![Blog](https://img.shields.io/badge/Blog-0d1117?style=flat-square&logo=rss&logoColor=00FF9F&labelColor=0d1117)](https://your-blog.dev)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=00FF9F&labelColor=0d1117)](https://discord.com/users/000000000)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00FF9F&labelColor=0d1117)](mailto:asteri1004@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=00FF9F&labelColor=0d1117)](https://discord.com/users/shootingstar_)
 
 </div>
 
