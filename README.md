@@ -60,7 +60,6 @@ PID    STAT   PROJECT              DESCRIPTION
 ─────────────────────────────────────────────────────────────────────
 1001   R      Taxonomy Lab         인디 게임 개발 중 / indie game in progress
 1002   R      lang-lab             패러다임별 실험 저장소 / paradigm playground
-1003   S      dotfiles             nvim · zsh · tmux 설정 모음
 1004   S      character-bible      Obsidian 기반 캐릭터 설계 시스템
 ─────────────────────────────────────────────────────────────────────
 R = running   S = sleeping
