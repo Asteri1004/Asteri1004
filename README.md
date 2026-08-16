@@ -84,9 +84,8 @@ R = running   S = sleeping
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asteri1004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00FF9F&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asteri1004&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="top langs" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Asteri1004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&icon_color=00FF9F&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Asteri1004&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9F&text_color=c9d1d9&langs_count=8" alt="top langs" />
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Asteri1004&hide_border=true&background=0d1117&stroke=00FF9F&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
