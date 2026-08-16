@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=%24+echo+%22paradigms+%3E+syntax%22;%24+make+game+--name%3D%22Project+C%22;%24+while+true%3B+do+learn+%24LANG%3B+done" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=%24+echo+%22paradigms+%3E+syntax%22;%24+make+game+--name%3D%22Taxonomy+Lab%22;%24+while+true%3B+do+learn+%24LANG%3B+done" alt="typing" />
 
 </div>
 
