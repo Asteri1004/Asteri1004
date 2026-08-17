@@ -43,6 +43,7 @@ Asteri1004@github ~ $ neofetch
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=00FF9F&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FF9F&labelColor=0d1117)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=00FF9F&labelColor=0d1117)
+![Zig](https://img.shields.io/badge/Zig-0d1117?style=flat-square&logo=zig&logoColor=00FF9F&labelColor=0d1117)
 
 **Tools** · 도구
 
@@ -120,7 +121,7 @@ R = running   S = sleeping
 <div align="center">
 
 ```
-asteri@github ~ $ exit
+Asteri1004@github ~ $ exit
 logout
 [ 방문해주셔서 감사합니다 · thanks for stopping by ]
 ```
